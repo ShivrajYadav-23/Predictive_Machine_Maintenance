@@ -38,10 +38,10 @@ The dataset is imbalanced, reflecting real-world industrial conditions.
 ---
 
 ## 📊 Visualizations
-- Feature distribution plots
-- Correlation heatmap
-- Failure vs non-failure comparisons
+- Best Model Fit
+- ROC-AUC 
 - Confusion matrix for model evaluation
+- Key Machine Failure Reasons
 
 ---
 
